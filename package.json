@@ -1,0 +1,29 @@
+{
+  "name": "getaroom",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "apidoc export": "apidoc -e node_modules -e public -o public/apidoc"
+  },
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.2.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "moment-timezone": "^0.5.14",
+    "mongoose": "^5.0.12",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-facebook-token": "^3.3.0",
+    "passport-google-plus-token": "^2.1.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
