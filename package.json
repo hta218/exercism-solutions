@@ -19,7 +19,7 @@
     "lodash": "^4.17.5",
     "moment": "^2.21.0",
     "moment-timezone": "^0.5.14",
-    "mongoose": "^5.0.12",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "passport": "^0.4.0",
     "passport-facebook-token": "^3.3.0",
