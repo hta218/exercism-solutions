@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "apidoc": "^0.17.6",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.4",
