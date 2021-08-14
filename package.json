@@ -24,6 +24,6 @@
     "passport": "^0.4.0",
     "passport-facebook-token": "^3.3.0",
     "passport-google-plus-token": "^2.1.0",
-    "pug": "^2.0.0-beta11"
+    "pug": "^3.0.1"
   }
 }
