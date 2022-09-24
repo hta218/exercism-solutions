@@ -7,7 +7,7 @@
     "apidoc export": "apidoc -e node_modules -e public -o public/apidoc"
   },
   "dependencies": {
-    "apidoc": "^0.17.6",
+    "apidoc": "^0.53.0",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
