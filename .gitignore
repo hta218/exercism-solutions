@@ -1,9 +1,0 @@
-# Node build artifacts
-node_modules
-npm-debug.log
-public/apidoc
-
-# Local development
-*.env
-*.dev
-.DS_Store
