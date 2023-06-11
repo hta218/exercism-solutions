@@ -12,4 +12,4 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 ---
 
-View the exercise on [Exercism](https://exercism.org/tracks/javascript/exercises/hello-world)
+View the exercise on [Exercism](https://exercism.org/tracks/javascript/exercises/hello-world).
