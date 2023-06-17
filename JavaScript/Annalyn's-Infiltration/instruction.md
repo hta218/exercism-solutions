@@ -60,3 +60,6 @@ const petDogIsPresent = false;
 canFreePrisoner(knightIsAwake, archerIsAwake, prisonerIsAwake, petDogIsPresent);
 // => false
 ```
+
+---
+View the exercise on [Exercism](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration).
