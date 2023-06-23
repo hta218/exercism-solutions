@@ -1,4 +1,4 @@
-## Instructions
+# Instructions
 
 A new poetry club has opened in town, and you're thinking of attending. Because there have been incidents in the past, the club has a very specific door policy which you'll need to master, before attempting entry.
 
@@ -34,7 +34,7 @@ frontDoorResponse('Stands so high');
 // => "S"
 ```
 
-### 2.Capitalize a word
+### 2. Capitalize a word
 
 Now that you have all the correct letters, all you need to do to get the password for the front door is to correctly capitalize the word.
 
